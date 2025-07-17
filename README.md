@@ -10,26 +10,28 @@ Atualmente, estou me aperfeiçoando em práticas modernas de backend e arquitetu
 
 ### 🤝 Contatos:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jorge-luiz-moreira-batista-3376491b3/) • [Instagram](https://www.instagram.com/jorgemoreeirab/) • [E-mail](batistajoorge@gmail.com)
-
-
-<br/>
-
 <p align="left">
-    <a href="https://github.com/JorgeMor1?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JorgeMor1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/JorgeMor1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JorgeMor1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+        <a href="https://www.instagram.com/jorgemoreeirab/" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram" 
+        src="https://img.shields.io/badge/Instagram-6959CD?style=for-the-badge&logo=instagram&logoColor=white" />
+</a> 
+<a href="mailto:" target="_blank">
+    <img 
+        alt="Email" 
+        title="Me envie um e-mail" 
+        src="https://img.shields.io/badge/Email-CD853F?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+</a>
+<a href="https://www.linkedin.com/in/jorge-luiz-moreira-batista-3376491b3/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Veja meu perfil no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedn&logoColor=white"
+    />
+</a>
+
 </p>
 
 ---
