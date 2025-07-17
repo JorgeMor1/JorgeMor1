@@ -82,4 +82,6 @@ Atualmente, estou me aperfeiçoando em práticas modernas de backend e arquitetu
 
 🧀 Mineiro
 
+🔵 Cruzeirense
+
 ---
